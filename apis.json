@@ -1,0 +1,70 @@
+{
+    "name": "Dell Boomi",
+    "description": "The #1 Integration Cloud - Connect Everything, Engage Everywhere and Run Anywhere with Boomi's industry leading iPaaS platform.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18701-dell-boomi.jpg",
+    "tags": [
+        "api management other",
+        "api service provider",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dell-boomi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dell Boomi",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18701-dell-boomi.jpg",
+            "humanURL": "http:\/\/www.boomi.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dell-boomi-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.boomi.com\/bod\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/boomi\/bod"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/boomi"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@boomi.com"
+        },
+        {
+            "type": "Email",
+            "url": "emea@boomi.com"
+        },
+        {
+            "type": "Email",
+            "url": "apj@boomi.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.boomi.com\/products\/editions\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/boomi"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.boomi.com\/"
+        }
+    ]
+}
